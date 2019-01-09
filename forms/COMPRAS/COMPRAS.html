@@ -42,14 +42,15 @@
 
 					<div class="row">
 						<div class="col-md-12">
-							<table table tablename="produtos" class="table" addbuttonlabel="Adicionar Produto" addbuttonclass="wdkbuttonClass"> <thead>
-								<tr class="tableHeadRow">
-									<th>Codigo</th>
-									<th>Produto</th>
-									<th>Quantidade</th>
-									<th>Preço Uni</th>
-									<th>Preço Item</th>
-								</tr>
+							<table tablename="produtos" class="table" addbuttonlabel="Adicionar Produto" addbuttonclass="wdkbuttonClass">
+								<thead>
+									<tr class="tableHeadRow">
+										<th>Codigo</th>
+										<th>Produto</th>
+										<th>Quantidade</th>
+										<th>Preço Uni</th>
+										<th>Preço Item</th>
+									</tr>
 								</thead>
 
 								<tbody>
@@ -110,8 +111,26 @@
 					</div>
 				</div>
 			</div>
-	</div>
 
+			<div class="panel panel-default">
+				<div class="panel-heading">Validar Solicitação</div>
+				<div class="panel-body">
+					<p>A solicitação acima atende todos os requisitos?</p>
+					<div class="radio">
+						<label>
+							<input type="radio" name="validar" id="validacao_sim" value="1" checked>
+							SIM
+						</label>
+					</div>
+					<div class="radio">
+						<label>
+							<input type="radio" name="validar" id="validacao_nao" value="0">
+							NÃO
+						</label>
+					</div>
+				</div>
+			</div>
+	</div>
 	</form>
 	</div>
 </body>
