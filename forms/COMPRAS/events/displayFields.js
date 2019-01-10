@@ -13,6 +13,11 @@ function displayFields(form, customHTML) {
             form.setVisibleById("aprovador", false);
             form.setVisibleById("validacao", false);
 
+            form.setEnabled("nome", false); // Metodos que desabilita campo
+            form.setValue("nome", "Jose de Assis"); // Método que carrega valor no campo
+            var exemplo = form.getValue("nome"); // exemplo de receber valor do campo em uma variavel 
+            form.setValue("email", exemplo); // carrega valor no campo através de um variavel
+
             break;
         }
         case 4: {
