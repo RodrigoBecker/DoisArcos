@@ -28,7 +28,7 @@
     <processDefinitionVersionPK>
       <companyId>1</companyId>
       <processId>solicitao_compras</processId>
-      <version>1</version>
+      <version>4</version>
     </processDefinitionVersionPK>
     <versionDescription></versionDescription>
     <formId>128</formId>
@@ -110,6 +110,8 @@
       <deadlineFieldName></deadlineFieldName>
       <joint>false</joint>
       <agreementPercentage>0</agreementPercentage>
+      <engineAllocationId>Pool Papel</engineAllocationId>
+      <engineAllocationConfiguration>&lt;AssignmentController&gt;&lt;Role&gt;RH&lt;/Role&gt;&lt;/AssignmentController&gt;</engineAllocationConfiguration>
       <selectColleague>1</selectColleague>
       <initialState>false</initialState>
       <notifyAuthorityDelay>true</notifyAuthorityDelay>
@@ -275,22 +277,26 @@
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
         <expressionOrder>1</expressionOrder>
-        <version>1</version>
+        <version>4</version>
         <sequence>9</sequence>
       </conditionProcessStatePK>
-      <condition>hAPI.getCardValue(&quot;validar&quot;) == &quot;1&quot;</condition>
+      <condition>hAPI.getCardValue(&quot;validar&quot;) == 1</condition>
       <destinationSequenceId>11</destinationSequenceId>
+      <engineAllocationConfiguration>&lt;AssignmentController&gt;&lt;Role&gt;admin&lt;/Role&gt;&lt;/AssignmentController&gt;</engineAllocationConfiguration>
+      <engineAllocationId>Pool Papel</engineAllocationId>
     </ConditionProcessState>
     <ConditionProcessState>
       <conditionProcessStatePK>
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
         <expressionOrder>2</expressionOrder>
-        <version>1</version>
+        <version>4</version>
         <sequence>9</sequence>
       </conditionProcessStatePK>
-      <condition>hAPI.getCardValue(&quot;validar&quot;) == &quot;0&quot; </condition>
+      <condition>hAPI.getCardValue(&quot;validar&quot;) == 0</condition>
       <destinationSequenceId>13</destinationSequenceId>
+      <engineAllocationConfiguration>&lt;AssignmentController&gt;&lt;Role&gt;admin&lt;/Role&gt;&lt;/AssignmentController&gt;</engineAllocationConfiguration>
+      <engineAllocationId>Pool Papel</engineAllocationId>
     </ConditionProcessState>
   </list>
   <list>
@@ -464,7 +470,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
-        <version>1</version>
+        <version>4</version>
         <linkSequence>6</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -475,7 +481,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
-        <version>1</version>
+        <version>4</version>
         <linkSequence>8</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -486,7 +492,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
-        <version>1</version>
+        <version>4</version>
         <linkSequence>15</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>

@@ -13,7 +13,31 @@
 		<form name="form" role="form">
 
 
-			<div class="panel panel-default">
+			<div class="panel panel-default" id="Solicitante">
+				<div class="panel-heading">Dados da Solicitante</div>
+				<div class="panel-body">
+
+					<div class="row">
+						<div class="col-md-4">
+							<label id="lbl_nome" for="nome">Nome:</label>
+							<input type="text" name="nome" id="nome" class="form-control">
+						</div>
+
+						<div class="col-md-6">
+							<label for="email">Email</label>
+							<input type="email" name="email" id="email" class="form-control">
+						</div>
+
+						<div class="col-md-2">
+							<label for="ramal">Ramal/Telefone:</label>
+							<input type="text" name="ramal" id="ramal" class="form-control">
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="panel panel-default" id="compras">
 				<div class="panel-heading">Dados da Compra</div>
 				<div class="panel-body">
 
@@ -36,7 +60,7 @@
 				</div>
 			</div>
 
-			<div class="panel panel-default">
+			<div class="panel panel-default" id="produtos">
 				<div class="panel-heading">Informe os produtos</div>
 				<div class="panel-body">
 
@@ -90,7 +114,7 @@
 				</div>
 			</div>
 
-			<div class="panel panel-default">
+			<div class="panel panel-default" id="complementar">
 				<div class="panel-heading">Dado Complementares</div>
 				<div class="panel-body">
 					<div class="row">
@@ -112,7 +136,30 @@
 				</div>
 			</div>
 
-			<div class="panel panel-default">
+			<div class="panel panel-default" id="aprovador">
+					<div class="panel-heading">Dados do Aprovador</div>
+					<div class="panel-body">
+	
+						<div class="row">
+							<div class="col-md-4">
+								<label for="nome">Aprovador:</label>
+								<input type="text" name="nome_aprovador" id="nome_aprovador" class="form-control">
+							</div>
+	
+							<div class="col-md-6">
+								<label for="email">Email</label>
+								<input type="email" name="email_aprovador" id="email_aprovador" class="form-control">
+							</div>
+	
+							<div class="col-md-2">
+								<label for="ramal">Ramal/Telefone:</label>
+								<input type="text" name="ramal_aprovador" id="ramal_aprovador" class="form-control">
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<div class="panel panel-default" id="validacao">
 				<div class="panel-heading">Validar Solicitação</div>
 				<div class="panel-body">
 					<p>A solicitação acima atende todos os requisitos?</p>
