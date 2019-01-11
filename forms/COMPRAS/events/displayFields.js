@@ -17,12 +17,9 @@ function displayFields(form, customHTML) {
             form.setValue("nome", "Jose de Assis"); // Método que carrega valor no campo
             var exemplo = form.getValue("nome"); // exemplo de receber valor do campo em uma variavel 
             form.setValue("email", exemplo); // carrega valor no campo através de um variavel
-
-
+            
             customHTML.append("<script>alert('OLÁ BEM VINDO AO NOSSO PROCESSO!')</script>");
-
             customHTML.append("<span>Testando CustomHTMTL</span>");
-
             customHTML.append("<script>" +
                 "var estrutura = 2;" +
                 "console.log(estrutura);" + 

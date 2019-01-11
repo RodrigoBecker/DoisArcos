@@ -1409,7 +1409,7 @@
     <fonts name="Arial" size="8"/>
     <fonts bold="true" name="Arial" size="8"/>
   </pi:Diagram>
-  <bpmn2:BpmnProcess author="" cardIndex="141" category="ANALISE DE VENDA" complementsLevel="1" expedient="Default" extendedFields="&lt;list/&gt;" formSource="server" id="Teste_Venda" instruction="" keyWord="" name="Teste_Venda" notifyRequisitionerComplements="true" notifyResponsibleComplements="true" serverId="local" version="2" volume="Default"/>
+  <bpmn2:BpmnProcess author="" cardIndex="11" category="ANALISE DE VENDA" complementsLevel="1" expedient="Default" extendedFields="&lt;list/&gt;" formSource="server" id="Teste_Venda" instruction="" keyWord="" name="Teste_Venda" notifyRequisitionerComplements="true" notifyResponsibleComplements="true" serverId="local" version="1" volume="Default"/>
   <bpmn2:BpmnPool cores="FFFFFF" id="pool1" name="Teste de Venda"/>
   <bpmn2:BpmnSwimLane cores="9F9F9F" id="swimlane2" name="Consiulta Cliente"/>
   <bpmn2:BpmnSwimLane cores="C0C0C0" id="swimlane3" name="Analisar Venda"/>

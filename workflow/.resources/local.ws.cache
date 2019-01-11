@@ -15,7 +15,7 @@
     <void method="add">
      <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
       <void property="UUID">
-       <string>88112BCF-C741-4994-9936-22CE171A1941</string>
+       <string>7D93DFDF-992A-4B75-8C5E-A65A09D33B82</string>
       </void>
       <void property="accessCount">
        <int>0</int>
@@ -27,7 +27,7 @@
        <string>meeting</string>
       </void>
       <void property="colleagueId">
-       <string>protheus</string>
+       <string>fluig.dev</string>
       </void>
       <void property="companyId">
        <int>1</int>
@@ -35,7 +35,7 @@
       <void property="createDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -44,16 +44,16 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>4</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
@@ -64,10 +64,10 @@
        <string>FLUIGADHOC</string>
       </void>
       <void property="documentId">
-       <int>6</int>
+       <int>9</int>
       </void>
       <void property="documentPropertyNumber">
-       <int>6</int>
+       <int>9</int>
       </void>
       <void property="documentPropertyVersion">
        <int>1000</int>
@@ -81,7 +81,7 @@
       <void property="expirationDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -90,16 +90,16 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>4</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
@@ -115,7 +115,7 @@
       <void property="lastModifiedDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -124,30 +124,30 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>4</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
       <void property="parentDocumentId">
-       <int>5</int>
+       <int>8</int>
       </void>
       <void property="phisicalFile">
        <string>FLUIGADHOC.html</string>
       </void>
       <void property="phisicalFileSize">
-       <float>0.240287</float>
+       <float>0.240222</float>
       </void>
       <void property="publisherId">
-       <string>protheus</string>
+       <string>fluig.dev</string>
       </void>
       <void property="relatedFiles">
        <string>FLUIGADHOC.html FLUIGADHOC.js FLUIGADHOC.css FLUIGADHOC1.png FLUIGADHOC2.png FLUIGADHOC3.png FLUIGADHOC4.png FLUIGADHOC.properties FLUIGADHOC_en_US.properties FLUIGADHOC_es.properties FLUIGADHOC_pt_BR.properties</string>
@@ -158,7 +158,7 @@
       <void property="validationStartDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -167,16 +167,16 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>4</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
@@ -194,7 +194,7 @@
     <void method="add">
      <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
       <void property="UUID">
-       <string>75F97CCB-F646-4F01-9022-6986997D6186</string>
+       <string>BCE72B29-9798-4396-B881-00F3330A377A</string>
       </void>
       <void property="accessCount">
        <int>0</int>
@@ -206,7 +206,7 @@
        <string>activity</string>
       </void>
       <void property="colleagueId">
-       <string>protheus</string>
+       <string>fluig.dev</string>
       </void>
       <void property="companyId">
        <int>1</int>
@@ -214,7 +214,7 @@
       <void property="createDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -223,16 +223,16 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>4</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
@@ -243,10 +243,10 @@
        <string>FLUIGADHOCPROCESS</string>
       </void>
       <void property="documentId">
-       <int>7</int>
+       <int>10</int>
       </void>
       <void property="documentPropertyNumber">
-       <int>7</int>
+       <int>10</int>
       </void>
       <void property="documentPropertyVersion">
        <int>1000</int>
@@ -260,7 +260,7 @@
       <void property="expirationDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -269,16 +269,16 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>4</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
@@ -294,7 +294,7 @@
       <void property="lastModifiedDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -303,30 +303,30 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>4</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
       <void property="parentDocumentId">
-       <int>5</int>
+       <int>8</int>
       </void>
       <void property="phisicalFile">
        <string>FLUIGADHOCPROCESS.html</string>
       </void>
       <void property="phisicalFileSize">
-       <float>0.237252</float>
+       <float>0.23722</float>
       </void>
       <void property="publisherId">
-       <string>protheus</string>
+       <string>fluig.dev</string>
       </void>
       <void property="relatedFiles">
        <string>FLUIGADHOCPROCESS.html FLUIGADHOCPROCESS.js FLUIGADHOCPROCESS.css FLUIGADHOCPROCESS1.png FLUIGADHOCPROCESS2.png FLUIGADHOCPROCESS.properties FLUIGADHOCPROCESS_en_US.properties FLUIGADHOCPROCESS_es.properties FLUIGADHOCPROCESS_pt_BR.properties</string>
@@ -337,108 +337,6 @@
       <void property="validationStartDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>23</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>4</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>B8513509-2AF0-46CE-9247-64A12732667D</string>
-      </void>
-      <void property="accessCount">
-       <int>1</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>28</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string>ds_incidentes</string>
-      </void>
-      <void property="documentDescription">
-       <string>Cadastro_Incidentes</string>
-      </void>
-      <void property="documentId">
-       <int>20</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>20</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>21000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
          <int>11</int>
         </void>
         <void property="hour">
@@ -448,101 +346,21 @@
          <int>0</int>
         </void>
         <void property="month">
-         <int>9</int>
+         <int>1</int>
         </void>
         <void property="second">
          <int>0</int>
         </void>
         <void property="timezone">
-         <int>-180</int>
+         <int>-120</int>
         </void>
         <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>28</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Cadastro_Incidentes.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>8.29697E-4</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Cadastro_Incidentes.html Cadastro_Incidentes.html Cadastro_Incidentes_en_US.properties Cadastro_Incidentes_es.properties Cadastro_Incidentes_pt_BR.properties custom.css custom.js</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>11</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
+         <int>2019</int>
         </void>
        </object>
       </void>
       <void property="version">
-       <int>21000</int>
+       <int>1000</int>
       </void>
       <void property="versionDescription">
        <string></string>
@@ -555,7 +373,7 @@
     <void method="add">
      <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
       <void property="UUID">
-       <string>5B32F554-EBAB-4D47-BBDD-B4D18CCBE246</string>
+       <string>C81875F6-5BAA-4075-9346-6D59825180FD</string>
       </void>
       <void property="accessCount">
        <int>0</int>
@@ -564,7 +382,7 @@
        <string></string>
       </void>
       <void property="colleagueId">
-       <string>protheus</string>
+       <string>fluig.dev</string>
       </void>
       <void property="companyId">
        <int>1</int>
@@ -573,3258 +391,6 @@
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
          <int>11</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Cadastro_tipo_Incidente</string>
-      </void>
-      <void property="documentId">
-       <int>23</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>23</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>11</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>11</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Cadastro_tipo_Incidente.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00529099</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Cadastro_Tipo_Incidente_es.properties Cadastro_Tipo_Incidente_pt_BR.properties Cadastro_tipo_Incidente.html style.css</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>11</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>A3FB1021-1CA6-49AA-889F-5B32440D6470</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>14</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Solicitacao_Suporte2</string>
-      </void>
-      <void property="documentId">
-       <int>26</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>26</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>31000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>11</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>14</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Solicitacao_Suporte.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.0146322</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Solicitacao_Suporte.html Solicitacao_Suporte_en_US.properties Solicitacao_Suporte_es.properties Solicitacao_Suporte_pt_BR.properties style.css custom.js</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>11</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>31000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>24F90001-F229-4ED7-A2E9-55D4D9FE79C2</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>13</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Novo Ponto Comercial</string>
-      </void>
-      <void property="documentId">
-       <int>28</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>28</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>13</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>13</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Novo Ponto Comercial.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>7.41959E-4</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Novo Ponto Comercial.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>13</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>7B9294AD-3BD0-4EE7-AE44-498760358A87</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>1</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>produtos</string>
-      </void>
-      <void property="documentId">
-       <int>32</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>32</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>9000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>14</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>1</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>produtos.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>6.39915E-4</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>produtos.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>14</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>9000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>B03C3958-E2ED-48D3-AC6D-50DA4D21AB7D</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string>Exemplo 3</string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>26</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Exemplo 3</string>
-      </void>
-      <void property="documentId">
-       <int>41</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>41</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>7000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>26</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>26</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Exemplo_3.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00492573</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Exemplo_3.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>26</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>7000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>F3C9B00E-FEBD-4A64-9E59-4C45407FC660</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>28</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>MeuForm</string>
-      </void>
-      <void property="documentId">
-       <int>56</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>56</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>47000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>26</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>28</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>MeuForm.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00142384</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>MeuForm.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>26</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>47000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>54D801F1-4E61-4D4A-8F6F-F4EDE6250FE8</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>27</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Solicitacao_Suporte</string>
-      </void>
-      <void property="documentId">
-       <int>57</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>57</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>9000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>27</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>27</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Solicitacao_Suporte.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00219536</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Solicitacao_Suporte.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>27</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>9</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>9000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>25ABE0B1-731F-4797-83CA-9FB066DB367D</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>2</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>SOLICITAÇÃO DE COMPRAS - PROTHEUS</string>
-      </void>
-      <void property="documentId">
-       <int>69</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>69</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>9000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>2</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>2</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>SOLICITAÇÃO DE COMPRAS - PROTHEUS.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00123787</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>SOLICITAÇÃO DE COMPRAS - PROTHEUS.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>2</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>9000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>A2CACE31-B7D4-4015-878F-7D52C594D415</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>3</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string>ds_produtos</string>
-      </void>
-      <void property="documentDescription">
-       <string>Cadastro_Produtos</string>
-      </void>
-      <void property="documentId">
-       <int>72</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>72</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>3</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>3</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Cadastro_Produtos.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>9.51767E-4</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Cadastro_Produtos.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>3</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>30E247F0-CBA3-4F66-A539-6DBE1D2C0648</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>4</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>exemplo</string>
-      </void>
-      <void property="documentId">
-       <int>88</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>88</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>2000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>4</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>4</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>exemplo.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>7.41959E-4</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>exemplo.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>4</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>2000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>A8B35115-965C-4627-8052-3D80B922E8DB</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>19</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Consulta_Produto</string>
-      </void>
-      <void property="documentId">
-       <int>119</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>119</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>5000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>19</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>19</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Consulta_Produto.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00124836</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Consulta_Produto.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>19</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>10</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-180</int>
-        </void>
-        <void property="year">
-         <int>2018</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>5000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>FC002D07-7B0B-4B3E-8918-B1A0F7359052</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Solicitação-Compras</string>
-      </void>
-      <void property="documentId">
-       <int>124</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>124</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Solicitação-Compras.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00155163</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Solicitação-Compras.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>10A39967-32CC-49FF-B070-6909A3785E38</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Solicitação-Compras</string>
-      </void>
-      <void property="documentId">
-       <int>125</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>125</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Solicitação-Compras.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00169182</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Solicitação-Compras.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>9CE0096D-E9B2-4959-B65D-F9C5B4E5AB7F</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>Solicitação-Compras</string>
-      </void>
-      <void property="documentId">
-       <int>127</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>127</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Solicitação-Compras.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00169182</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Solicitação-Compras.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>A7CCA4E6-63AF-4D33-8003-2E02DD88D68E</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string></string>
-      </void>
-      <void property="documentDescription">
-       <string>COMPRAS</string>
-      </void>
-      <void property="documentId">
-       <int>128</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>128</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>51000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>COMPRAS.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00154972</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>COMPRAS.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>9</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>51000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>11C5E01F-BA92-49D5-85DD-B5143B643F0E</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string>Formulário de teste_form</string>
-      </void>
-      <void property="cardDescription">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string>Formuláriodeteste_form134</string>
-      </void>
-      <void property="documentDescription">
-       <string>Formulário de teste_form</string>
-      </void>
-      <void property="documentId">
-       <int>134</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>134</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>Formulário_de_teste_form.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>0.00555325</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>Formulário_de_teste_form.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>0F50593B-E47F-45AF-8073-48979570B99A</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string>ds_custom2</string>
-      </void>
-      <void property="documentDescription">
-       <string>ds_custom2</string>
-      </void>
-      <void property="documentId">
-       <int>135</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>135</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>ds_custom2.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>9.46045E-4</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>ds_custom2.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>421F7031-92A4-4DB4-BBC8-EF509C89AC26</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="datasetName">
-       <string>ds_vendas</string>
-      </void>
-      <void property="documentDescription">
-       <string>intencao_vendas</string>
-      </void>
-      <void property="documentId">
-       <int>139</int>
-      </void>
-      <void property="documentPropertyNumber">
-       <int>139</int>
-      </void>
-      <void property="documentPropertyVersion">
-       <int>1000</int>
-      </void>
-      <void property="documentType">
-       <string>4</string>
-      </void>
-      <void property="documentTypeId">
-       <string></string>
-      </void>
-      <void property="expirationDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="iconId">
-       <int>0</int>
-      </void>
-      <void property="inheritSecurity">
-       <boolean>true</boolean>
-      </void>
-      <void property="keyWord">
-       <string></string>
-      </void>
-      <void property="languageId">
-       <string></string>
-      </void>
-      <void property="lastModifiedDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="parentDocumentId">
-       <int>5</int>
-      </void>
-      <void property="phisicalFile">
-       <string>intencao_vendas.html</string>
-      </void>
-      <void property="phisicalFileSize">
-       <float>9.16481E-4</float>
-      </void>
-      <void property="publisherId">
-       <string>protheus</string>
-      </void>
-      <void property="relatedFiles">
-       <string>intencao_vendas.html</string>
-      </void>
-      <void property="topicId">
-       <int>0</int>
-      </void>
-      <void property="validationStartDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
-        </void>
-        <void property="hour">
-         <int>0</int>
-        </void>
-        <void property="minute">
-         <int>0</int>
-        </void>
-        <void property="month">
-         <int>1</int>
-        </void>
-        <void property="second">
-         <int>0</int>
-        </void>
-        <void property="timezone">
-         <int>-120</int>
-        </void>
-        <void property="year">
-         <int>2019</int>
-        </void>
-       </object>
-      </void>
-      <void property="version">
-       <int>1000</int>
-      </void>
-      <void property="versionDescription">
-       <string></string>
-      </void>
-      <void property="volumeId">
-       <string>Default</string>
-      </void>
-     </object>
-    </void>
-    <void method="add">
-     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
-      <void property="UUID">
-       <string>82B6E1F6-D48C-4C10-9F5C-644B09986257</string>
-      </void>
-      <void property="accessCount">
-       <int>0</int>
-      </void>
-      <void property="additionalComments">
-       <string></string>
-      </void>
-      <void property="colleagueId">
-       <string>protheus</string>
-      </void>
-      <void property="companyId">
-       <int>1</int>
-      </void>
-      <void property="createDate">
-       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
-        <void property="day">
-         <int>10</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -3853,10 +419,10 @@
        <string>Analise_Venda</string>
       </void>
       <void property="documentId">
-       <int>141</int>
+       <int>11</int>
       </void>
       <void property="documentPropertyNumber">
-       <int>141</int>
+       <int>11</int>
       </void>
       <void property="documentPropertyVersion">
        <int>1000</int>
@@ -3870,7 +436,7 @@
       <void property="expirationDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>10</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -3907,7 +473,7 @@
       <void property="lastModifiedDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>10</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -3930,19 +496,19 @@
        </object>
       </void>
       <void property="parentDocumentId">
-       <int>5</int>
+       <int>8</int>
       </void>
       <void property="phisicalFile">
        <string>Analise_Venda.html</string>
       </void>
       <void property="phisicalFileSize">
-       <float>0.00142288</float>
+       <float>0.00224018</float>
       </void>
       <void property="publisherId">
-       <string>protheus</string>
+       <string>fluig.dev</string>
       </void>
       <void property="relatedFiles">
-       <string>Analise_Venda.html</string>
+       <string>Analise_Venda.html custom.js</string>
       </void>
       <void property="topicId">
        <int>0</int>
@@ -3950,7 +516,7 @@
       <void property="validationStartDate">
        <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
         <void property="day">
-         <int>10</int>
+         <int>11</int>
         </void>
         <void property="hour">
          <int>0</int>
@@ -3983,6 +549,367 @@
       </void>
      </object>
     </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>7E81B3E0-BEE4-4B53-A86A-B4EA05CACA76</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>fluig.dev</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="datasetName">
+       <string>ds_vendas</string>
+      </void>
+      <void property="documentDescription">
+       <string>intencao_vendas</string>
+      </void>
+      <void property="documentId">
+       <int>12</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>12</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="parentDocumentId">
+       <int>8</int>
+      </void>
+      <void property="phisicalFile">
+       <string>intencao_vendas.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>9.37462E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>fluig.dev</string>
+      </void>
+      <void property="relatedFiles">
+       <string>intencao_vendas.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>89480F64-F626-462A-B0B2-3F40909FABA1</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>fluig.dev</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="datasetName">
+       <string></string>
+      </void>
+      <void property="documentDescription">
+       <string>COMPRAS</string>
+      </void>
+      <void property="documentId">
+       <int>13</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>13</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>2000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="parentDocumentId">
+       <int>8</int>
+      </void>
+      <void property="phisicalFile">
+       <string>COMPRAS.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00585175</float>
+      </void>
+      <void property="publisherId">
+       <string>fluig.dev</string>
+      </void>
+      <void property="relatedFiles">
+       <string>COMPRAS.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+        <void property="day">
+         <int>11</int>
+        </void>
+        <void property="hour">
+         <int>0</int>
+        </void>
+        <void property="minute">
+         <int>0</int>
+        </void>
+        <void property="month">
+         <int>1</int>
+        </void>
+        <void property="second">
+         <int>0</int>
+        </void>
+        <void property="timezone">
+         <int>-120</int>
+        </void>
+        <void property="year">
+         <int>2019</int>
+        </void>
+       </object>
+      </void>
+      <void property="version">
+       <int>2000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
    </object>
   </void>
   <void method="put">
@@ -3992,6 +919,50 @@
      <string>Default</string>
     </void>
    </array>
+  </void>
+  <void method="put">
+   <string>processosServidor</string>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Listar Tarefas</string>
+      </void>
+      <void property="processId">
+       <string>FLUIGADHOC</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>solicitao_compras</string>
+      </void>
+      <void property="processId">
+       <string>solicitao_compras</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Teste_Venda</string>
+      </void>
+      <void property="processId">
+       <string>Teste_Venda</string>
+      </void>
+     </object>
+    </void>
+   </object>
   </void>
   <void method="put">
    <string>mecanismo</string>

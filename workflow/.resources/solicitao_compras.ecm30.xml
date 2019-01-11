@@ -28,10 +28,10 @@
     <processDefinitionVersionPK>
       <companyId>1</companyId>
       <processId>solicitao_compras</processId>
-      <version>4</version>
+      <version>1</version>
     </processDefinitionVersionPK>
     <versionDescription></versionDescription>
-    <formId>128</formId>
+    <formId>0</formId>
     <editionMode>true</editionMode>
     <updateAttachmentsVersion>false</updateAttachmentsVersion>
     <controlsAttachmentsSecurity>false</controlsAttachmentsSecurity>
@@ -111,7 +111,7 @@
       <joint>false</joint>
       <agreementPercentage>0</agreementPercentage>
       <engineAllocationId>Pool Papel</engineAllocationId>
-      <engineAllocationConfiguration>&lt;AssignmentController&gt;&lt;Role&gt;RH&lt;/Role&gt;&lt;/AssignmentController&gt;</engineAllocationConfiguration>
+      <engineAllocationConfiguration>&lt;AssignmentController&gt;&lt;Role&gt;admin&lt;/Role&gt;&lt;/AssignmentController&gt;</engineAllocationConfiguration>
       <selectColleague>1</selectColleague>
       <initialState>false</initialState>
       <notifyAuthorityDelay>true</notifyAuthorityDelay>
@@ -277,7 +277,7 @@
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
         <expressionOrder>1</expressionOrder>
-        <version>4</version>
+        <version>1</version>
         <sequence>9</sequence>
       </conditionProcessStatePK>
       <condition>hAPI.getCardValue(&quot;validar&quot;) == 1</condition>
@@ -290,7 +290,7 @@
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
         <expressionOrder>2</expressionOrder>
-        <version>4</version>
+        <version>1</version>
         <sequence>9</sequence>
       </conditionProcessStatePK>
       <condition>hAPI.getCardValue(&quot;validar&quot;) == 0</condition>
@@ -470,7 +470,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
-        <version>4</version>
+        <version>1</version>
         <linkSequence>6</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -481,7 +481,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
-        <version>4</version>
+        <version>1</version>
         <linkSequence>8</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -492,7 +492,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>solicitao_compras</processId>
-        <version>4</version>
+        <version>1</version>
         <linkSequence>15</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>

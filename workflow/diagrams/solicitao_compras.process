@@ -1713,7 +1713,7 @@
     <fonts name="Arial" size="8"/>
     <fonts name="Arial" size="8" bold="true"/>
   </pi:Diagram>
-  <bpmn2:BpmnProcess id="solicitao_compras" name="solicitao_compras" serverId="local" version="4" author="" extendedFields="&lt;list/>" cardIndex="128" formSource="server" category="SOLICITA&#xc7;&#xc3;O DE COMPRAS - RM" volume="Default" expedient="Default" instruction="" keyWord="" complementsLevel="1" notifyResponsibleComplements="true" notifyRequisitionerComplements="true"/>
+  <bpmn2:BpmnProcess id="solicitao_compras" name="solicitao_compras" version="4" author="" extendedFields="&lt;list/>" formSource="server" category="SOLICITA&#xc7;&#xc3;O DE COMPRAS - RM" volume="Default" expedient="Default" instruction="" keyWord="" complementsLevel="1" notifyResponsibleComplements="true" notifyRequisitionerComplements="true"/>
   <bpmn2:BpmnPool id="pool1" name="Solicita&#xe7;&#xe3;o de Compras" cores="FFFFFF"/>
   <bpmn2:BpmnSwimLane id="swimlane2" name="SOLICITANTE" cores="9F9F9F"/>
   <bpmn2:BpmnSwimLane id="swimlane3" name="DIRETORIA GERAL " cores="C0C0C0"/>
